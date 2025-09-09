@@ -16,3 +16,8 @@ Additional Articles to include:
   Greenwood et al 1997
   Smith et al 2022 
   Kamyshny et al 2011
+
+Proposed outline: 
+	Abstract
+	Introduction
+	Background
