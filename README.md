@@ -20,4 +20,7 @@ Additional Articles to include:
 Proposed outline: 
 	Abstract
 	Introduction
-	Background
+	Background/Current Research 
+	Discussion
+	Future Research
+	References
